@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bugu-mongo-1.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bugu-mongo-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-highlighter-3.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-core-3.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
